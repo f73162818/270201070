@@ -1,4 +1,5 @@
-a = 10
-c = 6
-print (a - c)
+animals = 10
+chickens = 6
+roosters = animals - chickens
+print (roosters)
 
